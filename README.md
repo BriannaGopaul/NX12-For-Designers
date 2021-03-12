@@ -19,3 +19,7 @@ Tutorial 3: Chapter 1
 Exercise 1: Chapter 1
 
 <img src="images-completed-tutorials/chapter-one-result/ex1-ch1.PNG" width=400>
+
+Exercise 2: Chapter 1
+
+<img src="images-completed-tutorials/chapter-one-result/ex2-ch1.PNG" width=400>
