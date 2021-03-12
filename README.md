@@ -15,3 +15,7 @@ Tutorial 2: Chapter 1
 Tutorial 3: Chapter 1 
 
 <img src="images-completed-tutorials/chapter-one-result/tu3-ch1.PNG" height=400>
+
+Exercise 1: Chapter 1
+
+<img src="images-completed-tutorials/chapter-one-result/ex1-ch1.PNG" width=200>
