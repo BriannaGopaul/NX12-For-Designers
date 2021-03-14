@@ -23,3 +23,10 @@ Exercise 1: Chapter 1
 Exercise 2: Chapter 1
 
 <img src="images-completed-tutorials/chapter-one-result/ex2-ch1.PNG" width=400>
+
+### Day 3: March 12 2021
+
+Misc Tutorial 
+
+<img src="images-completed-tutorials/misc-tutorials.png" width=400>
+
