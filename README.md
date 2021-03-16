@@ -6,11 +6,11 @@
 
 Tutorial 3: Chapter 2
 
-<img src="images-completed-tutorials/chapter-two-result/ex2-ch2-sketch.png" width=400>
+<img src="images-completed-tutorials/chapter-two-result/ex2-ch2.png" height=400>
 
-<img src="images-completed-tutorials/chapter-two-result/tu3-ch2-sketch.png" width=400>
+<img src="images-completed-tutorials/chapter-two-result/tu3-ch2-sketch.png" height=400>
 
-<img src="images-completed-tutorials/chapter-two-result/tu3-ch2.png" width=400>
+<img src="images-completed-tutorials/chapter-two-result/tu3-ch2.png" height=400>
 
 ### Day 5: March 15 2021
 
