@@ -1,14 +1,22 @@
 # NX12-For-Designers
 
-### Day 1: March 11 2021 
+## Daily NX12 Progress Log 
 
-Tutorial 1: Chapter 1
+### Day 5: March 15 2021
 
-<img src="images-completed-tutorials/chapter-one-result/tu1-ch1.png" width=400>
+Tutorial 2: Chapter 2 
 
-Tutorial 2: Chapter 1
+<img src="images-completed-tutorials/chapter-two-result/tu2-ch2.png" width=400>
 
-<img src="images-completed-tutorials/chapter-one-result/tu2-ch1.png" width=400>
+### Day 4: March 14 2021 
+
+Struggled with an overconstrained sketch. Spent way too long looking for the constraint causing the issue. Figured it out. 
+
+### Day 3: March 13 2021
+
+Misc Tutorial 
+
+<img src="images-completed-tutorials/misc-tutorials.png" width=400>
 
 ### Day 2: March 12 2021
 
@@ -24,18 +32,16 @@ Exercise 2: Chapter 1
 
 <img src="images-completed-tutorials/chapter-one-result/ex2-ch1.PNG" width=400>
 
-### Day 3: March 13 2021
+### Day 1: March 11 2021 
 
-Misc Tutorial 
+Tutorial 1: Chapter 1
 
-<img src="images-completed-tutorials/misc-tutorials.png" width=400>
+<img src="images-completed-tutorials/chapter-one-result/tu1-ch1.png" width=400>
 
-### Day 4: March 14 2021 
+Tutorial 2: Chapter 1
 
-Struggled with an overconstrained sketch. Spent way too long looking for the constraint causing the issue. 
+<img src="images-completed-tutorials/chapter-one-result/tu2-ch1.png" width=400>
 
-### Day 5: March 15 2021
 
-Tutorial 2: Chapter 2 
 
-<img src="images-completed-tutorials/chapter-two-result/tu2-ch2.png" width=400>
+
