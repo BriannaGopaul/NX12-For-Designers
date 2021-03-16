@@ -4,9 +4,16 @@
 
 ### Day 6: March 16 2021
 
-Tutorial 3: Chapter 2
+Tutorial 1: Chapter 3
+
+<img src="images-completed-tutorials/chapter-three-result/tu1-ch3.png" height=350 width=350>
+
+
+Exercise 2: Chapter 2
 
 <img src="images-completed-tutorials/chapter-two-result/ex2-ch2.png" height=350 width=350>
+
+Tutorial 3: Chapter 2
 
 <img src="images-completed-tutorials/chapter-two-result/tu3-ch2-sketch.png" height=400>
 
