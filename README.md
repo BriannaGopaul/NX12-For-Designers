@@ -6,7 +6,7 @@
 
 Tutorial 3: Chapter 2
 
-<img src="images-completed-tutorials/chapter-two-result/ex2-ch2.png" height=400 width=400>
+<img src="images-completed-tutorials/chapter-two-result/ex2-ch2.png" height=350 width=350>
 
 <img src="images-completed-tutorials/chapter-two-result/tu3-ch2-sketch.png" height=400>
 
