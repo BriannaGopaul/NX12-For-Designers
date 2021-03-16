@@ -24,9 +24,18 @@ Exercise 2: Chapter 1
 
 <img src="images-completed-tutorials/chapter-one-result/ex2-ch1.PNG" width=400>
 
-### Day 3: March 12 2021
+### Day 3: March 13 2021
 
 Misc Tutorial 
 
 <img src="images-completed-tutorials/misc-tutorials.png" width=400>
 
+### Day 4: March 14 2021 
+
+Struggled with an overconstrained sketch. Spent way too long looking for the constraint causing the issue. 
+
+### Day 5: March 15 2021
+
+Tutorial 2: Chapter 2 
+
+<img src="images-completed-tutorials/chapter-two-result/tu2-ch2.png" width=400>
