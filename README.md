@@ -6,7 +6,7 @@
 
 Tutorial 3: Chapter 2
 
-<img src="images-completed-tutorials/chapter-two-result/ex2-ch2.png" height=400>
+<img src="images-completed-tutorials/chapter-two-result/ex2-ch2.png" height=400 width=400>
 
 <img src="images-completed-tutorials/chapter-two-result/tu3-ch2-sketch.png" height=400>
 
@@ -26,7 +26,7 @@ Struggled with an overconstrained sketch. Spent way too long looking for the con
 
 Misc Tutorial 
 
-<img src="images-completed-tutorials/misc-tutorial.png" width=400>
+<img src="images-completed-tutorials/misc-tutorial.PNG" width=400>
 
 ### Day 2: March 12 2021
 
