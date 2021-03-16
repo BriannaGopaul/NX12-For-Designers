@@ -16,7 +16,7 @@ Struggled with an overconstrained sketch. Spent way too long looking for the con
 
 Misc Tutorial 
 
-<img src="images-completed-tutorials/misc-tutorials.png" width=400>
+<img src="images-completed-tutorials/misc-tutorial.png" width=400>
 
 ### Day 2: March 12 2021
 
