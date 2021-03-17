@@ -6,7 +6,7 @@
 
 Tutorial 1: Chapter 4
 
-<img src="images-completed-tutorials/chapter-four-result/tu1-ch4.png" width=400>
+<img src="images-completed-tutorials/chapter-four-result/tu1-ch4.PNG" width=400>
 
 Exercise 2: Chapter 3
 
