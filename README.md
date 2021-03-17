@@ -3,6 +3,11 @@
 ## Daily NX12 Progress Log 
 
 ### Day 7: March 17 2021
+
+Tutorial 1: Chapter 4
+
+<img src="images-completed-tutorials/chapter-four-result/tu1-ch4.png" width=400>
+
 Exercise 2: Chapter 3
 
 <img src="images-completed-tutorials/chapter-three-result/ex2-ch3.PNG" width=400>
