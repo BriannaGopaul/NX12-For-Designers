@@ -6,7 +6,7 @@
 
 Tutorial 3: Chapter 3
 
-<img src="images-completed-tutorials/chapter-three-result/tu3-ch3.png" height=350 width=350>
+<img src="images-completed-tutorials/chapter-three-result/tu3-ch3.PNG" height=350 width=350>
 
 Tutorial 2: Chapter 3 
 
