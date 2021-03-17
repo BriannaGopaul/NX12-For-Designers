@@ -2,6 +2,10 @@
 
 ## Daily NX12 Progress Log 
 
+### Day 7: March 17 2021 
+
+<img src="images-completed-tutorials/chapter-three-result/tu2-ch3.png" height=350 width=350>
+
 ### Day 6: March 16 2021
 
 Tutorial 1: Chapter 3
