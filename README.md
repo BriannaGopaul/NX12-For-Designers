@@ -4,6 +4,10 @@
 
 ### Day 7: March 17 2021
 
+Tutorial 2: Chapter 4
+
+<img src="images-completed-tutorials/chapter-four-result/tu2-ch4.PNG" width=400>
+
 Tutorial 1: Chapter 4
 
 <img src="images-completed-tutorials/chapter-four-result/tu1-ch4.PNG" width=400>
