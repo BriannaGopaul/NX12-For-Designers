@@ -2,6 +2,12 @@
 
 ## Daily NX12 Progress Log 
 
+### Day 8: March 18 2021
+
+Tutorial 3: Chapter 4 [in progress]
+
+Struggling with creating a feature on an angled datum plane. The feature is not extruding on an incline despite the datum plane being at a 40 degree angle...I'll figure it out.   
+
 ### Day 7: March 17 2021
 
 Tutorial 2: Chapter 4
