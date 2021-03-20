@@ -4,6 +4,10 @@
 
 ### Day 10: March 20 2021
 
+Exercise 3: Chapter 4
+
+<img src="images-completed-tutorials/chapter-four-result/ex3-ch4.png" height=400>
+
 Exercise 2: Chapter 4
 
 <img src="images-completed-tutorials/chapter-four-result/ex2-ch4.png" height=400>
