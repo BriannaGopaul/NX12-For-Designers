@@ -2,7 +2,7 @@
 
 ## Daily NX12 Progress Log 
 
-### Day 10: March 2021i
+### Day 10: March 20 2021
 
 Exercise 1: Chapter 4 
 
