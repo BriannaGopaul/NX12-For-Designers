@@ -2,6 +2,20 @@
 
 ## Daily NX12 Progress Log 
 
+### Day 10: March 2021i
+
+Exercise 1: Chapter 4 
+
+Exercise 2: Chapter 4
+
+### Day 9: March 19 2021
+
+Tutorial 3: Chapter 4 
+
+I struggled a lot with this tutorial and there are still several things that need to be fixed. I'm going to move on to the exercises and come back to this tutorial later. For now, it's complete. 
+
+<img src="images-completed-tutorials/chapter-four-result/tu3-ch4.PNG" width=400>
+
 ### Day 8: March 18 2021
 
 Tutorial 3: Chapter 4 [in progress]
