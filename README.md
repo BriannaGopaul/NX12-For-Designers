@@ -6,7 +6,7 @@
 
 Exercise 1: Chapter 4 
 
-Exercise 2: Chapter 4
+<img src="images-completed-tutorials/chapter-four-result/ex1-ch4.PNG" width=400>
 
 ### Day 9: March 19 2021
 
