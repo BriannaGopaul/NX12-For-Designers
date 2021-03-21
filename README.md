@@ -6,7 +6,7 @@
 
 Tutorial 1: Chapter 5
 
-<img src="images-completed-tutorials/chapter-four-result/tu1-ch5.png" height=400>
+<img src="images-completed-tutorials/chapter-five-result/tu1-ch5.png" height=400>
 
 ### Day 10: March 20 2021
 
