@@ -6,7 +6,7 @@
 
 Tutorial 2: Chapter 5 
 
-<img src="images-completed-tutorials/chapter-five-result/tu2-ch5.png" height=400>
+<img src="images-completed-tutorials/chapter-five-result/tu2-ch5.png" width = 400>
 
 Tutorial 1: Chapter 5
 
