@@ -2,6 +2,12 @@
 
 ## Daily NX12 Progress Log 
 
+### Day 11: March 21 2021
+
+Tutorial 1: Chapter 5
+
+<img src="images-completed-tutorials/chapter-four-result/tu1-ch5.png" height=400>
+
 ### Day 10: March 20 2021
 
 Exercise 3: Chapter 4
