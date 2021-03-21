@@ -4,6 +4,10 @@
 
 ### Day 11: March 21 2021
 
+Exercise 1: Chapter 5
+
+<img src="images-completed-tutorials/chapter-five-result/ex1-ch5.png" height=400>
+
 Tutorial 2: Chapter 5 
 
 <img src="images-completed-tutorials/chapter-five-result/tu2-ch5.png" width = 400>
