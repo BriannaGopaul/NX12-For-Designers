@@ -1,6 +1,10 @@
 # NX12-For-Designers
 
-## Daily NX12 Progress Log 
+## Daily NX12 Progress Log
+
+### Day 12: March 22 2021
+
+Stuck on Exercise 2, will keep working at it tomorrow.
 
 ### Day 11: March 21 2021
 
