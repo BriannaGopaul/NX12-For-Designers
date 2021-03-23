@@ -6,7 +6,7 @@
 
 Exercise 2: Chapter 5
 
-<img src="images-completed-tutorials/chapter-five-result/ex2-ch5.png" height=400>
+<img src="images-completed-tutorials/chapter-five-result/ex2-ch5.png" width=400>
 
 ### Day 12: March 22 2021
 
