@@ -2,7 +2,11 @@
 
 ## Daily NX12 Progress Log
 
-### Day 12: March 23 2021i
+### Day 12: March 23 2021
+
+Exercise 3: Chapter 5 
+
+<img src="images-completed-tutorials/chapter-five-result/ex3-ch5.png" width=400>
 
 Exercise 2: Chapter 5
 
