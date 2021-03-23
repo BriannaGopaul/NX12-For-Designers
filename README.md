@@ -2,6 +2,12 @@
 
 ## Daily NX12 Progress Log
 
+### Day 12: March 23 2021i
+
+Exercise 2: Chapter 5
+
+<img src="images-completed-tutorials/chapter-five-result/ex2-ch5.png" width = 400 height=400>
+
 ### Day 12: March 22 2021
 
 Stuck on Exercise 2, will keep working at it tomorrow.
