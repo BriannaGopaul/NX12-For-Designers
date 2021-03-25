@@ -2,6 +2,12 @@
 
 ## Daily NX12 Progress Log
 
+### Day 13: March 24 2021
+
+Tutorial 1: Chapter 6 [in progress]
+
+Stuck on an edge blend, it always looks off from what the model should look like despite me following the instructions. I could just filet the sketch and then extrude it which makes the same result that I need but I want to follow the tutorial's steps. There's clearly something I'm doing wrong and I'm not sure what. Going to keep playing with it. 
+
 ### Day 12: March 23 2021
 
 Exercise 3: Chapter 5 
