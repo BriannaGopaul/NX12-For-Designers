@@ -6,11 +6,13 @@
 
 ### Day 16: March 27 2021 
 
-[will commit later today]
+Tutorial 2: Chapter 6
+
+<img src="images-completed-tutorials/chapter-six-result/tu2-ch6.png">
 
 ### Day 14 + 15: March 25 - 26 2021
 
-Finally done this tutorial, got stuck on mirroring features on the correct datum planes. 
+Tutorial 1: Chapter 6
 
 <img src="images-completed-tutorials/chapter-six-result/tu1-ch6.png" width=400>
 
