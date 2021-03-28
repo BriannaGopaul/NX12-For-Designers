@@ -2,6 +2,18 @@
 
 ## Daily NX12 Progress Log
 
+### Day 17 March 28 2021 
+
+### Day 16: March 27 2021 
+
+[will commit later today]
+
+### Day 14 + 15: March 25 - 26 2021
+
+Finally done this tutorial, got stuck on mirroring features on the correct datum planes. 
+
+<img src="images-completed-tutorials/chapter-six-result/tu1-ch6.png" width=400>
+
 ### Day 13: March 24 2021
 
 Tutorial 1: Chapter 6 [in progress]
