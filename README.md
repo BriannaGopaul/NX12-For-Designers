@@ -8,7 +8,7 @@
 
 Tutorial 2: Chapter 6
 
-<img src="images-completed-tutorials/chapter-six-result/tu2-ch6.png">
+<img src="images-completed-tutorials/chapter-six-result/tu2-ch6.png" height=400>
 
 ### Day 14 + 15: March 25 - 26 2021
 
