@@ -6,6 +6,10 @@
 
 ### Day 16: March 27 2021 
 
+Tutorial 3: Chapter 6 
+
+<img src="images-completed-tutorials/chapter-six-result/tu3-ch6.png" height=400>
+
 Tutorial 2: Chapter 6
 
 <img src="images-completed-tutorials/chapter-six-result/tu2-ch6.png" height=400>
