@@ -2,6 +2,14 @@
 
 ## Daily NX12 Progress Log
 
+### Day 19 March 30 2021 
+
+### Day 18 March 29 2021
+
+Exercise 1: Chapter 6
+
+<img src="images-completed-tutorials/chapter-six-result/ex1-ch6.png" height=400>
+
 ### Day 17 March 28 2021 
 
 Tutorial 4: Chapter 6
