@@ -4,6 +4,10 @@
 
 ### Day 19 March 30 2021 
 
+Exercise 2: Chapter 6 
+
+<img src="images-completed-tutorials/chapter-six-result/ex2-ch6.png" height=400>
+
 ### Day 18 March 29 2021
 
 Exercise 1: Chapter 6
