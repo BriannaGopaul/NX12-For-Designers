@@ -2,6 +2,10 @@
 
 ## Daily NX12 Progress Log
 
+### Day 20 March 31 2021 
+
+Working on my first assembly! Modelled all components, just need to put them together now :)
+
 ### Day 19 March 30 2021 
 
 Exercise 2: Chapter 6 
