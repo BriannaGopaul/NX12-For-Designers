@@ -2,6 +2,8 @@
 
 ## Daily NX12 Progress Log
 
+[will update with assemblies in a couple of days, working on a high voltage project right now :)]
+
 ### Day 20 March 31 2021 
 
 Working on my first assembly! Modelled all components, just need to put them together now :)
