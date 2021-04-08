@@ -2,7 +2,15 @@
 
 ## Daily NX12 Progress Log
 
-[will update with assemblies in a couple of days, working on a high voltage project right now :)]
+### Day 23 - 26: April 4 - 7 2021 
+
+[to be posted]
+
+### Day 21 - 23: April 1 - 3 2021
+
+Assembly #1: Pipe Vice 
+
+<img src="images-completed-tutorials/chapter-six-result/ex2-ch6.png" height=400>
 
 ### Day 20 March 31 2021 
 
