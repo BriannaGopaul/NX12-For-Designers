@@ -10,7 +10,7 @@
 
 Assembly #1: Pipe Vice 
 
-<img src="images-completed-tutorials/chapter-six-result/ex2-ch6.png" height=400>
+<img src="images-completed-tutorials/chapter-seven-result/pipe-vice-assembly-result/pipe-vice-assembly.png" height=400>
 
 ### Day 20 March 31 2021 
 
