@@ -2,9 +2,21 @@
 
 ## Daily NX12 Progress Log
 
-### Day 23 - 26: April 4 - 7 2021 
+### Day 27: April 12 2021 
 
-[to be posted]
+Assembly #3: Butterfly Valve 
+
+<img src="images-completed-tutorials/chapter-seven-result/butterfly-valve/bf-valve-exploded" width=400>
+
+<img src="images-completed-tutorials/chapter-seven-result/butterfly-valve/bf-valve-top" width=400>
+
+<img src="images-completed-tutorials/chapter-seven-result/butterfly-valve/bf-valve-side" width=400>
+
+Also started learning GD&T!
+
+### Day 23 - 26: April 4 - 9 2021 
+
+Plummer body assembly [unfinished]
 
 ### Day 21 - 23: April 1 - 3 2021
 
