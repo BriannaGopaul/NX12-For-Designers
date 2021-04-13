@@ -6,17 +6,17 @@
 
 Assembly #3: Butterfly Valve 
 
-<img src="images-completed-tutorials/chapter-seven-result/butterfly-valve/bf-valve-exploded" width=400>
+<img src="images-completed-tutorials/chapter-seven-result/butterfly-valve/bf-valve-exploded.png" width=400>
 
-<img src="images-completed-tutorials/chapter-seven-result/butterfly-valve/bf-valve-top" width=400>
+<img src="images-completed-tutorials/chapter-seven-result/butterfly-valve/bf-valve-top.png" width=400>
 
-<img src="images-completed-tutorials/chapter-seven-result/butterfly-valve/bf-valve-side" width=400>
+<img src="images-completed-tutorials/chapter-seven-result/butterfly-valve/bf-valve-side.png" width=400>
 
 Also started learning GD&T!
 
-### Day 23 - 26: April 4 - 9 2021 
+### Day 23 - 26: April 4 - 11 2021 
 
-Plummer body assembly [unfinished]
+Plummer body assembly [unfinished] + playing around with assemblies
 
 ### Day 21 - 23: April 1 - 3 2021
 
