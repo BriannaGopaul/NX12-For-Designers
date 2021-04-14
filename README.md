@@ -2,6 +2,12 @@
 
 ## Daily NX12 Progress Log
 
+### Day 29: April 14 2021
+
+Assembly #6: Flange Coupling 
+
+<img src="images-completed-tutorials/chapter-eight-result/flange-assembly/flange-assembly-exploded.png" width=400>
+
 ### Day 28: April 13 2021
 
 Assembly #5: Double Barring 
