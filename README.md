@@ -4,6 +4,12 @@
 
 ### Day 28: April 13 2021
 
+Assembly #5: Double Barring 
+
+<img src="images-completed-tutorials/chapter-seven-result/double-barring-assembly/double-barring.png" width=400>
+
+<img src="images-completed-tutorials/chapter-seven-result/double-barring-assembly/double-barring-explosion.png" height=400>
+
 Assembly #4: Pulley Support 
 
 <img src="images-completed-tutorials/chapter-seven-result/pulley-assembly/exploded.png" width=400>
