@@ -4,6 +4,10 @@
 
 ### Day 29: April 14 2021
 
+Assembly #7: Radial Engine 
+
+<img src="images-completed-tutorials/chapter-eight-result/radial-engine-assembly/radial-assembly-image.png" width=400>
+
 Assembly #6: Flange Coupling 
 
 <img src="images-completed-tutorials/chapter-eight-result/flange-assembly/flange-assembly-exploded.png" width=400>
