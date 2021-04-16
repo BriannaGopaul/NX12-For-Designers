@@ -2,6 +2,11 @@
 
 ## Daily NX12 Progress Log
 
+### Day 30 + 31: April 15/16 2021 
+
+Assembly #8: Shaper Tool Head 
+[in progress]
+
 ### Day 29: April 14 2021
 
 Assembly #7: Radial Engine 
